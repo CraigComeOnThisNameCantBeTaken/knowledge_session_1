@@ -1,0 +1,11 @@
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\bin\Debug\netcoreapp3.1\YagniRefactoring.exe
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\bin\Debug\netcoreapp3.1\YagniRefactoring.deps.json
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\bin\Debug\netcoreapp3.1\YagniRefactoring.runtimeconfig.json
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\bin\Debug\netcoreapp3.1\YagniRefactoring.runtimeconfig.dev.json
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\bin\Debug\netcoreapp3.1\YagniRefactoring.dll
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\bin\Debug\netcoreapp3.1\YagniRefactoring.pdb
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\obj\Debug\netcoreapp3.1\YagniRefactoring.csprojAssemblyReference.cache
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\obj\Debug\netcoreapp3.1\YagniRefactoring.AssemblyInfoInputs.cache
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\obj\Debug\netcoreapp3.1\YagniRefactoring.AssemblyInfo.cs
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\obj\Debug\netcoreapp3.1\YagniRefactoring.dll
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\YagniRefactoring\obj\Debug\netcoreapp3.1\YagniRefactoring.pdb

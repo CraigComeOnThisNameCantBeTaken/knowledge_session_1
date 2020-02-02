@@ -1,0 +1,11 @@
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\bin\Debug\netcoreapp3.1\ExtensibilityRefactoring.exe
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\bin\Debug\netcoreapp3.1\ExtensibilityRefactoring.deps.json
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\bin\Debug\netcoreapp3.1\ExtensibilityRefactoring.runtimeconfig.json
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\bin\Debug\netcoreapp3.1\ExtensibilityRefactoring.runtimeconfig.dev.json
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\bin\Debug\netcoreapp3.1\ExtensibilityRefactoring.dll
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\bin\Debug\netcoreapp3.1\ExtensibilityRefactoring.pdb
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\obj\Debug\netcoreapp3.1\ExtensibilityRefactoring.csprojAssemblyReference.cache
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\obj\Debug\netcoreapp3.1\ExtensibilityRefactoring.AssemblyInfoInputs.cache
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\obj\Debug\netcoreapp3.1\ExtensibilityRefactoring.AssemblyInfo.cs
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\obj\Debug\netcoreapp3.1\ExtensibilityRefactoring.dll
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\ExtensibilityRefactoring\obj\Debug\netcoreapp3.1\ExtensibilityRefactoring.pdb

@@ -1,0 +1,11 @@
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\bin\Debug\netcoreapp3.1\DryRefactoring.exe
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\bin\Debug\netcoreapp3.1\DryRefactoring.deps.json
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\bin\Debug\netcoreapp3.1\DryRefactoring.runtimeconfig.json
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\bin\Debug\netcoreapp3.1\DryRefactoring.runtimeconfig.dev.json
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\bin\Debug\netcoreapp3.1\DryRefactoring.dll
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\bin\Debug\netcoreapp3.1\DryRefactoring.pdb
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\obj\Debug\netcoreapp3.1\DryRefactoring.csprojAssemblyReference.cache
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\obj\Debug\netcoreapp3.1\DryRefactoring.AssemblyInfoInputs.cache
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\obj\Debug\netcoreapp3.1\DryRefactoring.AssemblyInfo.cs
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\obj\Debug\netcoreapp3.1\DryRefactoring.dll
+C:\Users\freem\Desktop\R&D\.netcore\dry\DryRefactoring\DryRefactoring\obj\Debug\netcoreapp3.1\DryRefactoring.pdb
