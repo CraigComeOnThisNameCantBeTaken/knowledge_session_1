@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\freem\\Desktop\\R&D\\.netcore\\dry\\DryRefactoring\\YagniRefactoring\\YagniRefactoring.csproj": {}
+    "D:\\r&d\\knowledge_session_1\\YagniRefactoring\\YagniRefactoring.csproj": {}
   },
   "projects": {
-    "C:\\Users\\freem\\Desktop\\R&D\\.netcore\\dry\\DryRefactoring\\YagniRefactoring\\YagniRefactoring.csproj": {
+    "D:\\r&d\\knowledge_session_1\\YagniRefactoring\\YagniRefactoring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\freem\\Desktop\\R&D\\.netcore\\dry\\DryRefactoring\\YagniRefactoring\\YagniRefactoring.csproj",
+        "projectUniqueName": "D:\\r&d\\knowledge_session_1\\YagniRefactoring\\YagniRefactoring.csproj",
         "projectName": "YagniRefactoring",
-        "projectPath": "C:\\Users\\freem\\Desktop\\R&D\\.netcore\\dry\\DryRefactoring\\YagniRefactoring\\YagniRefactoring.csproj",
-        "packagesPath": "C:\\Users\\freem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\freem\\Desktop\\R&D\\.netcore\\dry\\DryRefactoring\\YagniRefactoring\\obj\\",
+        "projectPath": "D:\\r&d\\knowledge_session_1\\YagniRefactoring\\YagniRefactoring.csproj",
+        "packagesPath": "C:\\Users\\Craig Freeman\\.nuget\\packages\\",
+        "outputPath": "D:\\r&d\\knowledge_session_1\\YagniRefactoring\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\freem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Craig Freeman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -26,7 +27,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "D:\\localPackageFeed2": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dormakaba-keysystems.pkgs.visualstudio.com/_packaging/KeySystemsNuGet/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -56,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
